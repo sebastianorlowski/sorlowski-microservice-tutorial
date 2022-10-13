@@ -1,0 +1,4 @@
+com/sebastianorlowski/clients/notification/NotificationRequest.class
+com/sebastianorlowski/clients/fraud/FraudCheckResponse.class
+com/sebastianorlowski/clients/notification/NotificationClient.class
+com/sebastianorlowski/clients/fraud/FraudClient.class

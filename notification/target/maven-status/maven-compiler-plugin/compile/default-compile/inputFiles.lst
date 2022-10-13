@@ -1,0 +1,7 @@
+/home/sebastian/Desktop/Projects/sorlowski-microservice-tutorial/notification/src/main/java/com/sebastianorlowski/notification/NotificationApplication.java
+/home/sebastian/Desktop/Projects/sorlowski-microservice-tutorial/notification/src/main/java/com/sebastianorlowski/notification/rabbitmq/NotificationConsumer.java
+/home/sebastian/Desktop/Projects/sorlowski-microservice-tutorial/notification/src/main/java/com/sebastianorlowski/notification/NotificationService.java
+/home/sebastian/Desktop/Projects/sorlowski-microservice-tutorial/notification/src/main/java/com/sebastianorlowski/notification/Notification.java
+/home/sebastian/Desktop/Projects/sorlowski-microservice-tutorial/notification/src/main/java/com/sebastianorlowski/notification/NotificationConfig.java
+/home/sebastian/Desktop/Projects/sorlowski-microservice-tutorial/notification/src/main/java/com/sebastianorlowski/notification/NotificationRepository.java
+/home/sebastian/Desktop/Projects/sorlowski-microservice-tutorial/notification/src/main/java/com/sebastianorlowski/notification/NotificationController.java

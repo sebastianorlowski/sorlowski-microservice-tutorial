@@ -1,0 +1,9 @@
+com/sebastianorlowski/notification/NotificationApplication.class
+com/sebastianorlowski/notification/rabbitmq/NotificationConsumer.class
+com/sebastianorlowski/notification/NotificationApplication$Person.class
+com/sebastianorlowski/notification/Notification.class
+com/sebastianorlowski/notification/NotificationConfig.class
+com/sebastianorlowski/notification/Notification$NotificationBuilder.class
+com/sebastianorlowski/notification/NotificationController.class
+com/sebastianorlowski/notification/NotificationService.class
+com/sebastianorlowski/notification/NotificationRepository.class
